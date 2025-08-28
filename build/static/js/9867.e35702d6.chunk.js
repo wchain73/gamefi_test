@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkstake_app=self.webpackChunkstake_app||[]).push([[9867],{69867:(e,n,l)=>{l.r(n),l.d(n,{chevronTopSvg:()=>s});var a,p=l(57528);const s=(0,l(4542).JW)(a||(a=(0,p.A)(['<svg fill="none" viewBox="0 0 16 16">\n  <path\n    fill="currentColor"\n    fill-rule="evenodd"\n    d="M14.54 11.04a1 1 0 0 1-1.41 0L8 5.92l-5.13 5.12a1 1 0 1 1-1.41-1.41l5.83-5.84a1 1 0 0 1 1.42 0l5.83 5.84a1 1 0 0 1 0 1.41Z"\n    clip-rule="evenodd"\n  />\n</svg>'])))}}]);
+//# sourceMappingURL=9867.e35702d6.chunk.js.map
